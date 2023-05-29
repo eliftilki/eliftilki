@@ -1,5 +1,5 @@
 # Hi there, I'm Elif
-**`2nd year student at Marmara University💻`**
+**`2nd year Computer Engineering student💻`**
 - 🚀 I’m interested in artificial intelligence and network
 - ⚡ Fun fact: I love to read book and do sport
 
