@@ -1,6 +1,6 @@
 # Hi there, I'm Elif
 **`2nd year Computer Engineering student💻`**
-- 🚀 I’m interested in artificial intelligence and network
+- 🚀 I’m interested in artificial intelligence
 - ⚡ Fun fact: I love to read book and do sport
 
 ## 🤝 Connect with me:
