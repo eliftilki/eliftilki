@@ -2,6 +2,7 @@
 **`2nd year Computer Engineering student💻`**
 - 🚀 I’m interested in artificial intelligence
 - ⚡ Fun fact: I love to read book and do sport
+- 🏹 I'm currently learning .Net Core
 
 ## 🤝 Connect with me:
 <p align="left"> <a href="https://www.linkedin.com/in/elif-tilki-2bbb43255/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
