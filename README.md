@@ -1,5 +1,5 @@
 # Hi there, I'm Elif
-**`2nd year Computer Engineering student💻`**
+**`3th year Computer Engineering student💻`**
 - ⚡ Fun fact: I love to read book and do sport
 - 🏹 I'm currently learning .Net Core
 
