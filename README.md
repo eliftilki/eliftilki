@@ -1,7 +1,7 @@
 # Hi there, I'm Elif
 **`4th year Computer Engineering student💻`**
 - ⚡ Fun fact: I love to read book and do sport
-- 🏹 I'm currently learning .Net
+- 🏹 I'm currently learning Spring and data science
 
 ## 🤝 Connect with me:
 <p align="left"> <a href="https://www.linkedin.com/in/elif-tilki/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
